@@ -1,0 +1,14 @@
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\bin\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.exe
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\bin\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.deps.json
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\bin\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.runtimeconfig.json
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\bin\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.dll
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\bin\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.pdb
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.AssemblyInfoInputs.cache
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.AssemblyInfo.cs
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.dll
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\refint\ConsoleApp_AlanHesaplamaUygulamasi.dll
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.pdb
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ConsoleApp_AlanHesaplamaUygulamasi.genruntimeconfig.cache
+C:\Users\ekrem\source\repos\ConsoleApp_AlanHesaplamaUygulamasi\obj\Debug\net8.0\ref\ConsoleApp_AlanHesaplamaUygulamasi.dll
